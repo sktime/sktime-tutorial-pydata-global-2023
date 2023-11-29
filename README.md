@@ -9,7 +9,7 @@ This tutorial gives a walkthrough of new `sktime` features in 2022-2023,together
 
 [sktime]: https://www.sktime.net
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sktime/sktime-workshop-pydata-prague-2023/main?filepath=notebooks) [![!discord](https://img.shields.io/static/v1?logo=discord&label=discord&message=chat&color=lightgreen)](https://discord.com/invite/54ACzaFsn7) [![!slack](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=news&color=lightblue)](https://www.linkedin.com/company/scikit-time/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sktime/sktime-tutorial-pydata-global-2023/main?filepath=notebooks) [![!discord](https://img.shields.io/static/v1?logo=discord&label=discord&message=chat&color=lightgreen)](https://discord.com/invite/54ACzaFsn7) [![!slack](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=news&color=lightblue)](https://www.linkedin.com/company/scikit-time/)
 
 ## :rocket: How to get started
 
@@ -21,7 +21,7 @@ You have different options how to run the tutorial notebooks:
 * Run the notebooks on your machine. [Clone] this repository, get [conda], install the required packages (`sktime`, `seaborn`, `jupyter`) in an environment, and open the notebooks with that environment. For detail instructions, see below. For troubleshooting, see sktime's more detailed [installation instructions].
 * or, use python venv, and/or an editable install of this repo as a package. Instructions below.
 
-[Binder]: https://mybinder.org/v2/gh/sktime/sktime-workshop-pydata-prague-2023/main?filepath=notebooks
+[Binder]: https://mybinder.org/v2/gh/sktime/sktime-tutorial-pydata-global-2023/main?filepath=notebooks
 [clone]: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 [conda]: https://docs.conda.io/en/latest/
 [installation instructions]: https://www.sktime.net/en/latest/installation.html
@@ -53,7 +53,7 @@ We invite anyone to get involved as a developer, user, supporter (or any combina
 
 - [Europython 2023 - General sktime introduction, half-day workshop](https://github.com/sktime/sktime-tutorial-europython-2023)
 
-- [PyCon Prague 2023 - Forecasting, Advanced Pipelines, Benchmarking](https://github.com/sktime/sktime-workshop-pydata-prague-2023)
+- [PyCon Prague 2023 - Forecasting, Advanced Pipelines, Benchmarking](https://github.com/sktime/sktime-tutorial-pydata-global-2023)
 
 - [Pydata Amsterdam 2023 - Probabilistic prediction, forecasting, evaluation](https://github.com/sktime/sktime-tutorial-pydata-Amsterdam-2023)
 
@@ -85,7 +85,7 @@ To run the notebooks locally, you will need:
 
 To clone the repository locally:
 
-`git clone https://github.com/sktime/sktime-workshop-pydata-prague-2023`
+`git clone https://github.com/sktime/sktime-tutorial-pydata-global-2023`
 
 ### Using conda env
 
