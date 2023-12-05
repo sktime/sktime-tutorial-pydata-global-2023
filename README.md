@@ -49,7 +49,7 @@ sktime is developed by an open community, with aims of ecosystem integration in 
 We invite anyone to get involved as a developer, user, supporter (or any combination of these).
 
 
-## :movie_camera: Other Tutorials:
+## :movie_camera: Other Tutorials
 
 - [Europython 2023 - General sktime introduction, half-day workshop](https://github.com/sktime/sktime-tutorial-europython-2023)
 
