@@ -90,22 +90,22 @@ To clone the repository locally:
 ### Using conda env
 
 1. Create a python virtual environment:
-`conda create -y -n pycon_prague python=3.9`
+`conda create -y -n sktime_pydata python=3.11`
 2. Install required packages:
-`conda install -y -n pycon_prague pip sktime seaborn jupyter pmdarima statsmodels dtw-python`
+`conda install -y -n sktime_pydata pip sktime seaborn jupyter pmdarima statsmodels dtw-python`
 3. Activate your environment:
-`conda activate pycon_prague`
+`conda activate sktime_pydata`
 4. If using jupyter: make the environment available in jupyter:
-`python -m ipykernel install --user --name=pycon_prague`
+`python -m ipykernel install --user --name=sktime_pydata`
 
 ### Using python venv
 
 1. Create a python virtual environment:
-`python -m venv pycon_prague`
+`python -m venv sktime_pydata`
 2. Activate your environment:
- - `source pycon_prague/bin/activate` for Linux
- - `pycon_prague/Scripts/activate` for Windows
+ - `source sktime_pydata/bin/activate` for Linux
+ - sktime_pydata/Scripts/activate` for Windows
 3. Install the requirements:
 `pip install -r requirements`
 4. If using jupyter: make the environment available in jupyter:
-`python -m ipykernel install --user --name=pycon_prague`
+`python -m ipykernel install --user --name=sktime_pydata`
