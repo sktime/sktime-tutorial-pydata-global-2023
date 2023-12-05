@@ -3,4 +3,4 @@ statsmodels
 seaborn
 pmdarima
 kotsu
-jupyter
+jupyterlab
