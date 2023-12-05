@@ -5,7 +5,7 @@ This tutorial is about [sktime] - a unified framework for machine learning with 
 
 `sktime` is easily extensible by anyone, and interoperable with the python data science stack.
 
-This tutorial gives a walkthrough of new `sktime` features in 2022-2023,together with an updated general introduction.
+This tutorial gives a walkthrough of new `sktime` features in 2022-2023, together with an updated general introduction.
 
 [sktime]: https://www.sktime.net
 
